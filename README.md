@@ -1,10 +1,10 @@
 # fastapi-pymongo
 
-From: https://python.plainenglish.io/how-to-use-fastapi-with-mongodb-75b43c8e541d
+From: <https://python.plainenglish.io/how-to-use-fastapi-with-mongodb-75b43c8e541d>
 
-### Local Setup
+## Local Setup
 
-```
+```bash
 # Create virtual environment
 python3 -m venv venv
 # Activate it
